@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="24px" viewBox="0 0 320 24" enable-background="new 0 0 320 24" xml:space="preserve">
+<rect x="-3.899" y="-8.75" fill="#EEEBE8" width="328.031" height="40.75"/>
+<path fill="#EEEBE8" d="M83.974,1.001h72.135c1.366,0,2.476,1.137,2.476,2.534v17.932c0,1.396-1.108,2.533-2.476,2.533H83.974
+	c-1.366,0-2.474-1.137-2.474-2.533V3.535C81.5,2.138,82.607,1.001,83.974,1.001L83.974,1.001z"/>
+<rect x="0" y="21" fill="#EEEBE8" width="320" height="2.25"/>
+<path fill="#EEEBE8" d="M163.974,0h72.135c1.366,0,2.476,1.137,2.476,2.534v17.932c0,1.396-1.108,2.533-2.476,2.533h-72.135
+	c-1.366,0-2.474-1.138-2.474-2.533V2.534C161.5,1.137,162.607,0,163.974,0L163.974,0z"/>
+<rect x="0" y="23" fill="#1DA9B6" width="320" height="1"/>
+<g id="Effet_NoPatch" display="none">
+</g>
+<path fill="#1DA9B6" d="M238.984,20v-0.035h0.031V3.034c0-1.677-1.359-3.034-3.035-3.034h-71.93c-1.676,0-3.034,1.357-3.034,3.034
+	v16.931h0.008V20h-2.002v-0.686h-0.002V3.034c0-1.677-1.358-3.034-3.035-3.034h-71.93c-1.676,0-3.035,1.357-3.035,3.034V19.49v0.475
+	V20H0v1h81.516c0.276,0,0.5-0.225,0.5-0.5v-0.535V19.49V3.034C82.016,1.912,82.93,1,84.051,1h71.93c1.121,0,2.035,0.912,2.035,2.034
+	v16.931h0.002V20.5c0,0.275,0.225,0.5,0.5,0.5h3.005c0.273,0,0.5-0.225,0.5-0.5v-1.498h-0.008V3.034
+	c0-1.122,0.912-2.034,2.031-2.034h71.934c1.121,0,2.035,0.912,2.035,2.034V19.49h-0.031v1.01c0,0.275,0.225,0.5,0.5,0.5H320v-1
+	H238.984z"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1154.5354" y1="-850.3984" x2="1154.5354" y2="-870.2762" gradientTransform="matrix(1 0 0 -1 -954.5195 -855.1592)">
+	<stop  offset="0.006" style="stop-color:#FFFFFE"/>
+	<stop  offset="1" style="stop-color:#FFFFFE;stop-opacity:0"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M162.016,11.967V4.035c0-2.505,0.823-3.035,3.034-3.035h69.932c2.522,0,3.034,0.834,3.034,3.035
+	v7.932"/>
+<g id="Effet_NoPatch_3_">
+</g>
+</svg>
